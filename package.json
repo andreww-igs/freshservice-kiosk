@@ -1,0 +1,24 @@
+{
+  "name": "ict-servicedesk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.5.0",
+    "express": "^4.19.2",
+    "ldapjs": "^3.0.7",
+    "mssql": "^11.0.1",
+    "node-windows": "^1.0.0-beta.8",
+    "nodemailer": "^6.9.14",
+    "sqlite3": "^5.1.7"
+  },
+  "description": ""
+}
